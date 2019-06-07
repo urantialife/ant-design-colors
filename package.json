@@ -40,7 +40,7 @@
     "gulp": "^4.0.2",
     "gulp-typescript": "^5.0.1",
     "jest": "^24.7.1",
-    "prettier": "^1.16.4",
+    "prettier": "^1.18.2",
     "ts-jest": "^24.0.2",
     "typescript": "^3.4.2"
   },
